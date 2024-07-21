@@ -23,7 +23,7 @@ function addBookToLibrary(book) {
 
 const LITOW = new Book("Lightning Is The Only Way", "Warmaisach", "1329", "Completed", "https://www.lightnovelworld.co/novel/lightning-is-the-only-way-16091347");
 const RI = new Book("Revered Insanity", "Gu Zhen Ren", "2334", "Completed", "https://www.lightnovelworld.co/novel/reverend-insanity-05122222");
-const SGIWM = new Book("Sword God In A World Of Magic", "Warmaisach", "1033", "Completed", "");
+const SGIWM = new Book("Sword God In A World Of Magic", "Warmaisach", "1033", "Completed", "https://www.lightnovelworld.co/novel/sword-god-in-a-world-of-magic-05122221");
 const SS = new Book("Shadow Slave", "Guiltythree", "1756", "Ongoing", "https://www.lightnovelworld.co/novel/shadow-slave-05122222");
 addBookToLibrary(LITOW);
 addBookToLibrary(RI);
